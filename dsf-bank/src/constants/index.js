@@ -132,10 +132,10 @@ export const footer = {
     '(00) 1234-5678',
     'Rua Fictícia, 1234, Bairro Fictício, Cidade Fictícia - Estado Fictício',
   ],
-  copy: 'Copyright © 2025 JESUS Bank. Todos os direitos reservados.',
+  copy: 'Copyright © 2025 JESUS Bank. Todos os direitos reservados do Dev Jesus @v1ccken.',
   social: [
-    { component: instagram, url: '#' },
-    { component: twitter, url: '#' },
-    { component: linkedin, url: '#' },
+    { component: instagram, url: 'https://instagram/jesus.viccken' },
+    { component: twitter, url: 'https://facebook.com/jesusvicken' },
+    { component: linkedin, url: 'https://www.linkedin.com/in/jesus-vicken/' },
   ],
 };
