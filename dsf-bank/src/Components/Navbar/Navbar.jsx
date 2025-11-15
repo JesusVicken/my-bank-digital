@@ -30,9 +30,9 @@ const Navbar = () => {
   return (
     <section className={styles.navbar}>
       <div>
-        <Link href='/'>
+        {/* <Link href='/'>
           <Image src='/logo.svg' alt='DSF Bank' width={50} height={30} />
-        </Link>
+        </Link> */}
       </div>
       <nav>
         <ul className={styles.links}>{renderLinks}</ul>

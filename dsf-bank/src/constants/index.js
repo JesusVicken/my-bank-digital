@@ -24,7 +24,7 @@ export const header = {
   title: 'Seja Digital Seja Jesus Bank',
   subtitle:
     'Somos a união da tecnologia com a confiança que você procura em um banco. Nós oferecemos serviços bancários digitais seguros e inovadores, para ajudar você a se conectar com o futuro financeiro e aproveitar cada oportunidade.',
-  caption: '__ confiado por milhões de usuários',
+  caption: 'confiado por milhões de usuários',
 };
 
 export const experience = [

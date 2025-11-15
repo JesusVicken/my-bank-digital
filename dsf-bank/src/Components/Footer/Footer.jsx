@@ -27,12 +27,12 @@ const Footer = () => {
   return (
     <footer className={styles.footer}>
       <div className={styles.conteiner1}>
-        <div className={styles.column1}>
+        {/* <div className={styles.column1}>
           <Link href='/'>
             <Image src='/logo.svg' alt='dsf bank' width={50} height={30} />
           </Link>
           <p className='light'>{description}</p>
-        </div>
+        </div> */}
         <div className={styles.column2}>
           <h2 className='p'>Links úteis</h2>
           <ul>{renderLinks}</ul>
