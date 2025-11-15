@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>DSF Bank</title>
+        <title>JESUS Bank</title>
         <meta name='viewport' content='width=device-width, initial-scale=1' />
       </Head>
       <Navbar />
